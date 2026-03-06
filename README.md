@@ -1,6 +1,6 @@
 # Androide_Development_Assignement
 
-This project is a **Kotlin-based Student Grading Calculator** organized into three main parts. The first part is a 
+This project is a **Kotlin-based Student Grading Calculator** organized into three main parts located in the master branch . The first part is a 
 **console-based application** located in `src/main/kotlin/Main.kt`, which allows users to calculate student grades, 
 view results, and manage grading operations through a terminal interface; it can be executed by navigating to the project root and running `gradlew run`. 
 The second part of the project will be a **graphical user interface (GUI)** version placed in a future folder called **`frontend`**, which will be developed using **JavaFX** to provide a more user-friendly visual interface 
